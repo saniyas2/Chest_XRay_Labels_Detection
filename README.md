@@ -1,1 +1,1 @@
-# Chest_XRay_Labels_Detection
+**Attention-Based Mutli-Label Classification of Thoracic Diseases from Chest X-rays**
